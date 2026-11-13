@@ -34,6 +34,17 @@
   </tr>
 </table>
 
+## GitHub 活动
+
+<p align="center">
+  <a href="https://github.com/127MU">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=127MU&amp;name=127_MU&amp;theme=material_palenight" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=127MU&amp;name=127_MU&amp;theme=buefy" width="100%" alt="127_MU 的 GitHub 贡献统计与活动趋势" />
+    </picture>
+  </a>
+</p>
+
 ---
 
 <p align="center">
